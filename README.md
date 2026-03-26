@@ -123,19 +123,3 @@ Uses **Linear Regression** — a simple, fast algorithm that finds the best stra
 This is the same Transfer Learning concept — we use a pre-built algorithm (Linear Regression from scikit-learn) instead of building math from scratch.
 
 ---
-
-## Files on GitHub
-
-Upload only:
-```
-train.py
-predict.py
-generate_data.py
-README.md
-```
-
-Do NOT upload `data/` or `model/`.
-
----
-
-*Module 5 Project — Machine Learning | First Year AI/ML*
